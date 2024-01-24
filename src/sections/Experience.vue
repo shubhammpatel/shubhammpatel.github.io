@@ -17,6 +17,7 @@ import Box from './Box.vue';
                 date="Oct 2023 - Present"
             >
                 Example Content
+                
             </Toggle>
 
             <Toggle 

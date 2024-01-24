@@ -16,6 +16,7 @@ import Box from './Box.vue';
                 link="https://google.com"
                 date="Feb 2023 - Oct 2023"
             >
+            Key Subjects: Australian Business Culture, Environment, and Workplace Skills, Professional Business Communication
             </Toggle>
 
             <Toggle 

@@ -55,7 +55,7 @@ const toggle = () => isOpen.value = !isOpen.value
 
         <Transition>
             <div v-if="isOpen" class="w-full border-t">
-                <div class="px-24 py-8">
+                <div class="px-24 py-8 text-sm">
                     <slot>
                         Content <br/>
                         Content <br/>
